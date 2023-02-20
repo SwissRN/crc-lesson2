@@ -27,6 +27,7 @@ keypoints:
 source("../bin/chunk-options.R")
 knitr_fig_path("04-")
 ```
+# Note: before publication copyright of al pictures needs to be checked!
 
 ## Code of conduct for scientific integrity
 
